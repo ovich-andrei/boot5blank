@@ -1,9 +1,5 @@
 <?php
-/*
- *  Author: Todd Motto | @toddmotto
- *  URL: boot5blank.com | @boot5blank
- *  Custom functions, support, custom post types and more.
- */
+
 
 require get_template_directory() . '/inc/wp-nav-menu.php'; //Theme Support
 

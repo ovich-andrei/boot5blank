@@ -19,16 +19,16 @@
                     </div>
                     <!-- /copyright -->
                     <div class="">
-                        <a class="text-white px-2" href="https://vk.com/ovich_andrei" target="_blank">
+                        <a class="text-white px-2" href="<?php echo esc_url( 'https://vk.com/ovich_andrei' ); ?>" target="_blank">
                             <i class="fa fa-vk" title="vk"></i>
                         </a>
-                        <a class="text-white px-2" href="https://www.facebook.com/ovich.andrei" target="_blank">
+                        <a class="text-white px-2" href="<?php echo esc_url( 'https://www.facebook.com/ovich.andrei' ); ?>" target="_blank">
                             <i class="fa fa-facebook" title="facebook"></i>
                         </a>
-                        <a class="text-white px-2" href="https://ok.ru/andrey.ovich" target="_blank">
+                        <a class="text-white px-2" href="<?php echo esc_url( 'https://ok.ru/andrey.ovich' ); ?>" target="_blank">
                             <i class="fa fa-odnoklassniki" title="odnoklassniki"></i>
                         </a>
-                        <a class="text-white px-2" href="mailto:yuhfe@bk.ru">
+                        <a class="text-white px-2" href="<?php echo esc_url( 'mailto:yuhfe@bk.ru' ); ?>">
                             <i class="fa fa-envelope" title="mail to"></i>
                         </a>
                     </div>
